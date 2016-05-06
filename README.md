@@ -5,7 +5,7 @@ a simple server side network tab viewer for webpages , built using [Appdash](htt
 ## Usage
 
 ```
-go get github.com/nandakola/Loadtimes
+go get github.com/nandakola/loadtimes
 
 go run main.go
 
@@ -16,4 +16,4 @@ To demonstrate the JS and CSS load times some sample JS and CSS are added in to 
 
 javascript to collect the resource information is provided in "loadPerformanceData.js"
 
-![alt tag](https://raw.githubusercontent.com/nandakola/Loadtimes/Sample.PNG)
+![alt tag](https://raw.githubusercontent.com/nandakola/loadtimes/Sample.PNG)
