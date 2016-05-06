@@ -16,4 +16,4 @@ To demonstrate the JS and CSS load times some sample JS and CSS are added in to 
 
 javascript to collect the resource information is provided in "loadPerformanceData.js"
 
-[[https://github.com/nandakola/loadtimes/blob/master/Sample.PNG]]
+<img src="https://github.com/nandakola/loadtimes/blob/master/Sample.PNG" align="center">
